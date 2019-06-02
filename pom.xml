@@ -14,8 +14,7 @@
     <packaging>jar</packaging>
 
     <name>myshop-commons-mapper</name>
-    <url>http://www.funtl.com</url>
-    <inceptionYear>2019-May</inceptionYear>
+    <inceptionYear>2018-Now</inceptionYear>
 
     <dependencies>
         <!-- Spring Boot Begin -->
